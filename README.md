@@ -1,4 +1,4 @@
-# Technical Audit of an Automated Decision System: Assessing a Popular Heart Disease Classifier Model as found on Kaggle
+# Technical Audit of an Automated Decision System: Fairness Analysis of Kaggle code from 2020 annual CDC survey data of 400k adults related to their health status 
 
 Authors: Martin Keenan and Guillherme Albertini
 
